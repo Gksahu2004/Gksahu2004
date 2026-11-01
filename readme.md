@@ -1,5 +1,5 @@
 # 👤 About Me:
-🎓 M.Tech CSE'28 @ MNNIT Allahabad<br>🧩 Interested in DSA, Problem Solving & Software Development<br>🤖 Exploring Machine Learning & Deep Learning<br>🐍 C | C++ | Java | JavaScript |  Python<br>📚 Currently improving my DSA & competitive programming skills<br>🎨 Hobbies: Sketching & Portrait Drawing<br>🏏 Love playing table tennis & Badminton
+🎓 M.Tech CSE'28 @ MNNIT Allahabad<br>🧩 Interested in DSA, Problem Solving & Software Development<br>🤖 Exploring Machine Learning & Deep Learning<br>🐍 C | C++ | Java | JavaScript |  Python<br>📚 Currently improving my DSA & competitive programming skills<br>🎨 Hobbies: Sketching & Portrait Drawing<br>🏏 Love playing Table Tennis & Badminton
 
 
 ## 🌐 Socials:
